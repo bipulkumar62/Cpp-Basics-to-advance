@@ -76,6 +76,27 @@ This is the first point where the repository moves from beginner syntax into pra
 
 ---
 
+## � Pattern and Nested Loop Practice
+
+The next stage introduces nested loops and pattern-building logic, which are the foundation of matrix-style and shape-based problems:
+
+- `21_Nested_loop.cpp` — understanding nested loops and how an inner loop repeats inside an outer loop
+- `22_Square_pattern.cpp` — printing a square number pattern using row and column loops
+- `23_triangle_pattern.cpp` — building a right triangle pattern
+- `24_reverse_triangle_pattern.cpp` — printing a triangle in reverse order
+- `25_Floyds_triangle_pattern.cpp` — generating a sequence-based triangular pattern
+- `26_inverted_triangle_pattern.cpp` — printing an inverted form with spacing and numeric repetition
+
+These files help develop a strong understanding of:
+
+- loop nesting
+- row/column logic
+- spacing control
+- pattern design
+- control flow for structured output
+
+---
+
 ## 📂 Repository Structure
 
 ```text
@@ -100,8 +121,15 @@ This is the first point where the repository moves from beginner syntax into pra
 ├── 18_Question_04.cpp
 ├── 19_dowhile_loop.cpp
 ├── 20_Question_05.cpp
+├── 21_Nested_loop.cpp
+├── 22_Square_pattern.cpp
+├── 23_triangle_pattern.cpp
+├── 24_reverse_triangle_pattern.cpp
+├── 25_Floyds_triangle_pattern.cpp
+├── 26_inverted_triangle_pattern.cpp
 ├── README.md
 ├── output/
+├── .gitignore
 └── .git/
 ```
 
@@ -109,5 +137,5 @@ This is the first point where the repository moves from beginner syntax into pra
 
 ## 📌 Outcome
 
-By the end of this project, the learner has moved from understanding basic C++ commands to writing logic-driven programs and solving small algorithmic tasks effectively.
+By the end of this project, the learner has moved from understanding basic C++ commands to writing logic-driven programs and solving small algorithmic tasks effectively. The repository now also covers nested loops, pattern generation, and visual logic building used in competitive programming and real-world problem-solving.
 

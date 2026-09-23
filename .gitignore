@@ -1,0 +1,10 @@
+# Ignore compiled executables and generated build files
+output/*.exe
+output/*.obj
+output/*.dll
+output/*.so
+output/*.out
+
+# Optional editor/system files
+.DS_Store
+Thumbs.db
