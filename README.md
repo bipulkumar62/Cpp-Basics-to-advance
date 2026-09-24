@@ -95,6 +95,11 @@ These files help develop a strong understanding of:
 - pattern design
 - control flow for structured output
 
+The later pattern exercises include:
+
+- `27_Pyramid_pattern.cpp` — building a centered pyramid using indentation and nested loops
+- `28_Hollow_diamond _pattern.cpp` — creating a hollow diamond using top and bottom mirrored logic
+
 ---
 
 ## 📂 Repository Structure
@@ -127,6 +132,8 @@ These files help develop a strong understanding of:
 ├── 24_reverse_triangle_pattern.cpp
 ├── 25_Floyds_triangle_pattern.cpp
 ├── 26_inverted_triangle_pattern.cpp
+├── 27_Pyramid_pattern.cpp
+├── 28_Hollow_diamond _pattern.cpp
 ├── README.md
 ├── output/
 ├── .gitignore
