@@ -46,6 +46,14 @@ The repository follows a simple learning flow:
    - `30_Function_void.cpp` — understanding `void` functions and function calls from `main()`
    - `31_Functions_writing_methods.cpp` — multi-call, returning values, and direct output from functions
 
+8. Function-based problem solving
+   - `32_Question_06.cpp` — sum of first N natural numbers using a function
+   - `33_Question_07.cpp` — checking even/odd with function-based logic
+   - `34_Pass_by_reference.cpp` — understanding call by reference
+   - `35_Pass_by_value.cpp` — understanding call by value
+   - `36_Question_08.cpp` — sum of digits of a number using a function
+   - `37_Question_09.cpp` — binomial coefficient calculation using factorials
+
 ---
 
 ## ✅ Core Learnings
@@ -64,6 +72,9 @@ This project teaches the following concepts:
 - Loop control using `break`
 - Function creation, invocation, and return values
 - `void` functions and reusable code blocks
+- Pass by value vs pass by reference
+- Function-based problem solving and modular logic
+- Factorial and combination-style calculations
 - Problem-solving mindset through small coding challenges
 - Algorithm design for real tasks like checking whether a number is prime
 
@@ -107,11 +118,17 @@ The later pattern exercises include:
 - `27_Pyramid_pattern.cpp` — building a centered pyramid using indentation and nested loops
 - `28_Hollow_diamond _pattern.cpp` — creating a hollow diamond using top and bottom mirrored logic
 
-After the pattern stage, the repository moves into functions, which are a key step toward structured programming:
+After the pattern stage, the repository moves into functions and modular problem solving, which are essential for structured programming:
 
 - `29_Functions.cpp` — basic function definition and usage
 - `30_Function_void.cpp` — function calls and `void` return behaviour
 - `31_Functions_writing_methods.cpp` — returning values from functions and using them directly in expressions
+- `32_Question_06.cpp` — function-based sum problem
+- `33_Question_07.cpp` — function-based even/odd logic
+- `34_Pass_by_reference.cpp` — reference arguments
+- `35_Pass_by_value.cpp` — value arguments
+- `36_Question_08.cpp` — digit sum function
+- `37_Question_09.cpp` — binomial coefficient function
 
 ---
 
@@ -150,6 +167,12 @@ After the pattern stage, the repository moves into functions, which are a key st
 ├── 29_Functions.cpp
 ├── 30_Function_void.cpp
 ├── 31_Functions_writing_methods.cpp
+├── 32_Question_06.cpp
+├── 33_Question_07.cpp
+├── 34_Pass_by_reference.cpp
+├── 35_Pass_by_value.cpp
+├── 36_Question_08.cpp
+├── 37_Question_09.cpp
 ├── README.md
 ├── output/
 ├── .gitignore
